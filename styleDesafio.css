@@ -4,7 +4,7 @@
 {
 
     --corFrames: #30a0a0;
-    --corTextos: #f3f3f3e8;
+    --corTextos: #f1f1f1;
     
 }
 
@@ -35,8 +35,8 @@ h1#header
 {
     text-align: center;
     padding-top: 1.5%;
-    color: #f1f1f1;
-    font-family: 'Lobster', cursive;
+    color: #b6f0f0;
+    font-family: Helvetica, Arial, sans-serif;    
     text-shadow: 1px 1px 0px rgb(0,0,0,0.466);    
     
 }
@@ -149,9 +149,9 @@ p.projects
         width: 63.5%;
         height: 766px;
         margin-left: 1%;
-        margin-right: 3%;        
+        margin-right: 1%;        
         margin-top: 8%;
-        margin-bottom: 60px;
+        margin-bottom: 20px;
         background-color: none;
        
         
@@ -176,8 +176,9 @@ aside
 p
 {
     
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-shadow: 1px 1px 0px rgb(0,0,0,0.466);
+    font-family: Calibri, sans-serif;
+    /*
+    text-shadow: 1px 1px 0px rgb(0,0,0,0.466);*/
 }
 
 p.article
